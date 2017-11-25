@@ -1,0 +1,28 @@
+﻿main.obj : error LNK2005: ya se definió "public: __cdecl Cell::Cell(int,int,int,int,bool,float)" (??0Cell@@QEAA@HHHH_NM@Z) en Cell.obj
+main.obj : error LNK2005: ya se definió "public: bool __cdecl Cell::getStatus(void)" (?getStatus@Cell@@QEAA_NXZ) en Cell.obj
+main.obj : error LNK2005: ya se definió "public: float __cdecl Cell::getValue(void)" (?getValue@Cell@@QEAAMXZ) en Cell.obj
+main.obj : error LNK2005: ya se definió "public: void __cdecl Cell::setStatus(bool)" (?setStatus@Cell@@QEAAX_N@Z) en Cell.obj
+main.obj : error LNK2005: ya se definió "public: void __cdecl Cell::setValue(float)" (?setValue@Cell@@QEAAXM@Z) en Cell.obj
+main.obj : error LNK2019: símbolo externo SDL_GetError sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_FreeSurface sin resolver al que se hace referencia en la función "struct SDL_Texture * __cdecl loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo SDL_CreateWindow sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_DestroyWindow sin resolver al que se hace referencia en la función "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: símbolo externo SDL_PollEvent sin resolver al que se hace referencia en la función SDL_main
+main.obj : error LNK2019: símbolo externo SDL_SetHint sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_CreateRenderer sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_CreateTextureFromSurface sin resolver al que se hace referencia en la función "struct SDL_Texture * __cdecl loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+main.obj : error LNK2019: símbolo externo SDL_SetRenderDrawColor sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_RenderClear sin resolver al que se hace referencia en la función SDL_main
+main.obj : error LNK2019: símbolo externo SDL_RenderFillRect sin resolver al que se hace referencia en la función SDL_main
+main.obj : error LNK2019: símbolo externo SDL_RenderPresent sin resolver al que se hace referencia en la función SDL_main
+main.obj : error LNK2019: símbolo externo SDL_DestroyRenderer sin resolver al que se hace referencia en la función "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: símbolo externo SDL_Init sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo SDL_Quit sin resolver al que se hace referencia en la función "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: símbolo externo IMG_Init sin resolver al que se hace referencia en la función "bool __cdecl init(void)" (?init@@YA_NXZ)
+main.obj : error LNK2019: símbolo externo IMG_Quit sin resolver al que se hace referencia en la función "void __cdecl close(void)" (?close@@YAXXZ)
+main.obj : error LNK2019: símbolo externo IMG_Load sin resolver al que se hace referencia en la función "struct SDL_Texture * __cdecl loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\MisArchivos\Documentos\Librerias_Desarrollo\SDL\SDL2\SDL2-2.0.5\lib\x86\SDL2.lib : warning LNK4272: el tipo de máquina de biblioteca 'X86' está en conflicto con el tipo de máquina de destino 'x64'
+D:\MisArchivos\Documentos\Librerias_Desarrollo\SDL\SDL2\SDL2-2.0.5\lib\x86\SDL2main.lib : warning LNK4272: el tipo de máquina de biblioteca 'X86' está en conflicto con el tipo de máquina de destino 'x64'
+D:\MisArchivos\Documentos\Librerias_Desarrollo\SDL\SDL2\SDL2-2.0.5\lib\x86\SDL2_image.lib : warning LNK4272: el tipo de máquina de biblioteca 'X86' está en conflicto con el tipo de máquina de destino 'x64'
+D:\MisArchivos\Proyectos\Universidad\InteligenciaArtificial\CellularAutomata\x64\Debug\CellularAutomata.exe : fatal error LNK1120: 19 externos sin resolver

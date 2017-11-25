@@ -1,0 +1,31 @@
+﻿  Grid.cpp
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(98): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(107): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(118): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(133): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(150): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(157): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(159): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(169): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(171): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(176): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(178): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(186): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(196): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(210): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(227): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(245): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(262): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(279): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(787): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(806): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(813): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(824): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(845): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(852): warning C4018: '<': no coinciden signed/unsigned
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(872): warning C4101: 'n_B': variable local sin referencia
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(872): warning C4101: 'n_A': variable local sin referencia
+d:\misarchivos\proyectos\universidad\inteligenciaartificial\diffusion\cellularautomata\cellularautomata\grid.cpp(929): warning C4018: '<': no coinciden signed/unsigned
+  CellularAutomata.vcxproj -> D:\MisArchivos\Proyectos\Universidad\InteligenciaArtificial\Diffusion\CellularAutomata\Debug\CellularAutomata.exe
+  CellularAutomata.vcxproj -> D:\MisArchivos\Proyectos\Universidad\InteligenciaArtificial\Diffusion\CellularAutomata\Debug\CellularAutomata.pdb (Partial PDB)
